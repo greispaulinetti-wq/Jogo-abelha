@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(228, 188, 56);
+    overflow: hidden;
+}
+
+canvas{
+    margin: auto;
+    background-color: rgb(44, 44, 40);
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}

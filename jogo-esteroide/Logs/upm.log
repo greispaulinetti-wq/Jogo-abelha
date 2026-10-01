@@ -1,0 +1,184 @@
+[2026-09-29T12:10:19.717Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 18508 --ipc-path Unity-Upm-18508 -l 2 --log-file C:\\Users\\2jd\\Documents\\jogo-esteroide/Logs/upm.log
+[2026-09-29T12:10:19.753Z][INFO] IPC server started (IPC path=Unity-Upm-18508).
+[2026-09-29T12:10:19.753Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-18508.
+[2026-09-29T12:10:28.459Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:28.463Z][INFO] project:list-packages --> 404 (3 ms)
+[2026-09-29T12:10:28.632Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:28.635Z][INFO] project:list-packages --> 404 (3 ms)
+[2026-09-29T12:10:28.651Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-29T12:10:28.653Z][INFO] config:project:get-registries --> 404 (3 ms)
+[2026-09-29T12:10:28.730Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-09-29T12:10:28.758Z][INFO] project:update-dependencies --> 200 (28 ms)
+[2026-09-29T12:10:28.788Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-09-29T12:10:29.119Z][INFO] Downloading package [com.unity.package-manager.metadata-6000.5@0.0.99] from registry 'https://packages.unity.com'
+[2026-09-29T12:10:29.470Z][INFO] Finished downloading package [com.unity.package-manager.metadata-6000.5@0.0.99] from registry 'https://packages.unity.com' (size: 11.4 kB, time: 350ms)
+[2026-09-29T12:10:30.184Z][INFO] project:resolve-packages --> 200 (1396 ms)
+[2026-09-29T12:10:41.511Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:41.546Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:41.596Z][INFO] project:list-packages --> 200 (85 ms)
+[2026-09-29T12:10:41.629Z][INFO] project:list-packages --> 200 (83 ms)
+[2026-09-29T12:10:41.630Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-09-29T12:10:41.633Z][INFO] config:project:get-registries --> 200 (3 ms)
+[2026-09-29T12:10:44.232Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:44.289Z][INFO] project:list-packages --> 200 (57 ms)
+[2026-09-29T12:10:45.914Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:45.978Z][INFO] project:list-packages --> 200 (64 ms)
+[2026-09-29T12:10:46.050Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-09-29T12:10:46.062Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-09-29T12:10:47.182Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-09-29T12:10:47.305Z][INFO] packages:get-all-packageinfo --> 200 (1243 ms)
+[2026-09-29T12:10:47.412Z][INFO] project:list-packages --> 200 (230 ms)
+[2026-09-29T12:10:47.487Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.addressables@2.9.1"
+}
+[2026-09-29T12:10:47.502Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ads.ios-support@1.0.1"
+}
+[2026-09-29T12:10:47.516Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ide.rider@3.0.40"
+}
+[2026-09-29T12:10:47.530Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.learn.iet-framework@5.0.4"
+}
+[2026-09-29T12:10:47.544Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.learn.iet-framework.authoring@1.5.4"
+}
+[2026-09-29T12:10:47.552Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.extensions@3.1.5"
+}
+[2026-09-29T12:10:47.561Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.visionos@3.1.5"
+}
+[2026-09-29T12:10:47.574Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.project-auditor-rules@1.0.3"
+}
+[2026-09-29T12:10:47.586Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.scriptablebuildpipeline@2.6.2"
+}
+[2026-09-29T12:10:47.596Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.friends@1.1.1"
+}
+[2026-09-29T12:10:47.614Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.moderation@1.0.2"
+}
+[2026-09-29T12:10:47.625Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.androidxr-openxr@1.3.2"
+}
+[2026-09-29T12:10:47.635Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arcore@6.5.1"
+}
+[2026-09-29T12:10:47.652Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arfoundation@6.5.1"
+}
+[2026-09-29T12:10:47.666Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arkit@6.5.1"
+}
+[2026-09-29T12:10:47.678Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.compositionlayers@2.5.0"
+}
+[2026-09-29T12:10:47.695Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.hands@1.8.1"
+}
+[2026-09-29T12:10:47.699Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.interaction.toolkit@3.5.1"
+}
+[2026-09-29T12:10:47.720Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.management@4.5.4"
+}
+[2026-09-29T12:10:47.735Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.meta-openxr@2.5.1"
+}
+[2026-09-29T12:10:47.857Z][INFO] packages:get-packageinfo --> 200 (261 ms)
+[2026-09-29T12:10:47.858Z][INFO] packages:get-packageinfo --> 200 (244 ms)
+[2026-09-29T12:10:47.875Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.openxr@1.17.1"
+}
+[2026-09-29T12:10:47.887Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.visionos@3.1.5"
+}
+[2026-09-29T12:10:47.905Z][INFO] packages:get-packageinfo --> 200 (403 ms)
+[2026-09-29T12:10:48.034Z][INFO] packages:get-packageinfo --> 200 (546 ms)
+[2026-09-29T12:10:48.147Z][INFO] packages:get-packageinfo --> 200 (631 ms)
+[2026-09-29T12:10:48.185Z][INFO] packages:get-packageinfo --> 200 (655 ms)
+[2026-09-29T12:10:48.252Z][INFO] packages:get-packageinfo --> 200 (709 ms)
+[2026-09-29T12:10:48.385Z][INFO] packages:get-packageinfo --> 200 (833 ms)
+[2026-09-29T12:10:48.399Z][INFO] packages:get-packageinfo --> 200 (838 ms)
+[2026-09-29T12:10:48.457Z][INFO] packages:get-packageinfo --> 200 (884 ms)
+[2026-09-29T12:10:48.596Z][INFO] packages:get-packageinfo --> 200 (1010 ms)
+[2026-09-29T12:10:48.648Z][INFO] packages:get-packageinfo --> 200 (1023 ms)
+[2026-09-29T12:10:48.652Z][INFO] packages:get-packageinfo --> 200 (974 ms)
+[2026-09-29T12:10:48.734Z][INFO] packages:get-packageinfo --> 200 (1100 ms)
+[2026-09-29T12:10:48.754Z][INFO] packages:get-packageinfo --> 200 (1018 ms)
+[2026-09-29T12:10:48.764Z][INFO] packages:get-packageinfo --> 200 (1069 ms)
+[2026-09-29T12:10:48.833Z][INFO] packages:get-packageinfo --> 200 (958 ms)
+[2026-09-29T12:10:48.861Z][INFO] packages:get-packageinfo --> 200 (1195 ms)
+[2026-09-29T12:10:48.880Z][INFO] packages:get-packageinfo --> 200 (993 ms)
+[2026-09-29T12:10:48.885Z][INFO] packages:get-packageinfo --> 200 (1165 ms)
+[2026-09-29T12:10:48.927Z][INFO] packages:get-packageinfo --> 200 (1275 ms)
+[2026-09-29T12:10:48.992Z][INFO] packages:get-packageinfo --> 200 (1293 ms)
+[2026-09-29T12:10:49.103Z][INFO] packages:get-all-packageinfo --> 200 (3054 ms)
+[2026-09-29T12:10:49.236Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.asset-manager-for-unity@1.11.0"
+}
+[2026-09-29T12:10:49.253Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.mobile.notifications@2.4.3"
+}
+[2026-09-29T12:10:49.264Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.platformtoolkit@1.1.0"
+}
+[2026-09-29T12:10:49.278Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.authentication@3.7.4"
+}
+[2026-09-29T12:10:49.284Z][INFO] packages:get-packageinfo --> 200 (48 ms)
+[2026-09-29T12:10:49.292Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.cloud-build@2.0.8"
+}
+[2026-09-29T12:10:49.306Z][INFO] packages:get-packageinfo --> 200 (42 ms)
+[2026-09-29T12:10:49.307Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.test-framework.performance@3.5.0"
+}
+[2026-09-29T12:10:49.319Z][INFO] packages:get-packageinfo --> 200 (66 ms)
+[2026-09-29T12:10:49.327Z][INFO] packages:get-packageinfo --> 200 (49 ms)
+[2026-09-29T12:10:49.331Z][INFO] packages:get-packageinfo --> 200 (39 ms)
+[2026-09-29T12:10:49.336Z][INFO] packages:get-packageinfo --> 200 (29 ms)
